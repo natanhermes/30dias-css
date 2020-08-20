@@ -4,3 +4,5 @@
 Meus desafios implementados:
 
 # Dia 01 - Ícone de mídia social em camadas
+
+![Alt text](https://github.com/natanhermes/30dias-css/blob/master/Desafios/dia-01/dia01-gif.gif)
