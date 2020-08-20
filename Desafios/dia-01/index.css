@@ -35,7 +35,6 @@ ul li span {
     color: white;
     top: 0;
     left: 0;
-    font-size: 20px !important;
 
     width: 100%;
     height: 100%;
@@ -58,7 +57,7 @@ ul li:nth-child(2) span
 }
 ul li:nth-child(3) span
 {
-    background: #dd4b39;
+    background: #CC3936;
 }
 ul li:nth-child(4) span
 {
@@ -66,12 +65,7 @@ ul li:nth-child(4) span
 }
 ul li:nth-child(5) span
 {
-    background: linear-gradient(45deg, #E67239, #F0403D, #855BB8);
-}
-
-ul li:hover span
-{
-    box-shadow: -1px 1px 1px rgba(0,0,0,.1);
+    background: #D2415D;
 }
 
 ul li:hover span:nth-child(4) {
