@@ -1,5 +1,7 @@
 # Desafio 30 dias de CSS :rocket:
-30 dias de CSS3, é um desafio elaborado pela [Milena Carecho](https://github.com/MilenaCarecho), que visa melhorar as habilidades com CSS + HTML realizando um desafio por 1.
+30 dias de CSS3, é um desafio elaborado pela [Milena Carecho](https://github.com/MilenaCarecho), que visa melhorar as habilidades com CSS + HTML realizando um desafio por dia. 
+
+Tenho como objetivo seguir fielmente os estilos pedidos em cada desafio.
 
 Meus desafios implementados:
 
