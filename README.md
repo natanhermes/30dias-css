@@ -18,4 +18,4 @@ Minhas implementações:
 
 ![Alt text](https://github.com/natanhermes/30dias-css/blob/master/Desafios/dia-02/dia02-gif.gif)
 
-    - Neste desafio segui a mesma ideia do exemplo dado pela Milena, com algumas alterações nas cores. ;)
+ * Neste desafio segui a mesma ideia do exemplo dado pela Milena, com algumas alterações nas cores. ;)
