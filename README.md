@@ -6,7 +6,7 @@ Tenho como objetivo seguir fielmente os estilos pedidos em cada desafio.
 Minhas implementações:
 
 - [Dia 01 - Ícones de mídia social em camadas](#dia-01---ícone-de-mídia-social-em-camadas)
-- [Dia 02 - Loading animado com diferentes cores]()
+- [Dia 02 - Loading animado com diferentes cores](#dia-02---loading-animado-com-diferentes-cores)
 
 
 # Dia 01 - Ícones de mídia social em camadas
@@ -18,4 +18,4 @@ Minhas implementações:
 
 ![Alt text](https://github.com/natanhermes/30dias-css/blob/master/Desafios/dia-02/dia02-gif.gif)
 
-    - Neste desafio segui a mesma ideia do exemplo dado pela [Milena Carecho](https://github.com/MilenaCarecho) com algumas alterações nas cores. ;)
+    - Neste desafio segui a mesma ideia do exemplo dado pela Milena, com algumas alterações nas cores. ;)
