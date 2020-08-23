@@ -8,7 +8,7 @@ Minhas implementações:
 - [Dia 01 - Ícones de mídia social em camadas](#dia-01---ícone-de-mídia-social-em-camadas)
 - [Dia 02 - Loading animado com diferentes cores](#dia-02---loading-animado-com-diferentes-cores)
 - [Dia 03 - Sliding de texto entre divs](#dia-03---sliding-de-texto-entre-divs)
-- [Dia 04 - Botão com animação no hover](#dia-04---botão-com-animação-no-hover)
+- [Dia 04 - Botão com animação no hover](#dia-04---botão-animado)
 
 
 # Dia 01 - Ícones de mídia social em camadas
