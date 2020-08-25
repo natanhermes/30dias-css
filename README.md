@@ -9,6 +9,7 @@ Minhas implementações:
 - [Dia 02 - Loading animado com diferentes cores](#dia-02---loading-animado-com-diferentes-cores)
 - [Dia 03 - Sliding de texto entre divs](#dia-03---sliding-de-texto-entre-divs)
 - [Dia 04 - Botão com animação no hover](#dia-04---botão-animado)
+- [Dia 05 - Efeito pulsar simples](#dia-05---efeito-pulsar)
 
 
 # Dia 01 - Ícones de mídia social em camadas
@@ -32,4 +33,10 @@ Minhas implementações:
 
 ![Alt text](https://github.com/natanhermes/30dias-css/blob/master/Desafios/dia-04/dia-04-gif.gif?raw=true)
 
- * Seguindo a mesma ideia do desafio proposto pela Milena. Fiz uma animação simples no hover.
+ * Seguindo a mesma ideia do desafio proposto pela Milena. Fiz uma animação simples no hover. 
+ 
+ # Dia 05 - Efeito pulsar
+
+![Alt text](https://github.com/natanhermes/30dias-css/blob/master/Desafios/dia-05/dia-05-gif.gif)
+
+ * Efeito pulsar simples
