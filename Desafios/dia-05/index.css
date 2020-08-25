@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    
+    background: #2f2e33;
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pulse + .pulse {
+    margin-left: 30px;
+}
+
+.pulse {
+	border-radius: 50%;
+	height: 80px;
+    width: 80px;
+    
+	transform: scale(1);
+	animation: pulse 3s infinite;
+}
+
+.pulse:nth-child(1){
+    background: red;
+    animation: pulse1 3s infinite;
+}
+.pulse:nth-child(2){
+    background: yellow;
+    animation: pulse 3s infinite;
+}
+.pulse:nth-child(3){
+    background: green;
+    animation: pulse2 3s infinite;
+}
+.pulse:nth-child(4){
+    background: blue;
+    animation: pulse3 3s infinite;
+}
+.pulse:nth-child(5){
+    background: #7159c1;
+    animation: pulse4 3s infinite;
+}
+
+@keyframes pulse {
+	0% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 40px yellow;
+	}
+	50% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 80px rgba(0, 0, 0, 0);
+	}
+
+	100% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 40px rgba(0, 0, 0, 0);
+	}
+}
+
+@keyframes pulse1 {
+	0% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 40px red;
+	}
+	50% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 80px rgba(0, 0, 0, 0);
+	}
+
+	100% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 40px rgba(0, 0, 0, 0);
+	}
+}
+
+@keyframes pulse2 {
+	0% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 0px green;
+    }
+    /*
+	50% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 80px rgba(0, 0, 0, 0);
+	} */
+
+	100% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 40px rgba(0, 0, 0, 0);
+	}
+}
+@keyframes pulse3 {
+	0% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 40px blue;
+	}
+	/* 50% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 80px rgba(0, 0, 0, 0);
+	} */
+
+	100% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 40px rgba(0, 0, 0, 0);
+	}
+}
+@keyframes pulse4 {
+	0% {
+		transform: scale(0.35);
+		box-shadow: 0 0 0 40px #7159c1;
+	}
+	50% {
+		transform: scale(0.55);
+		box-shadow: 0 0 0 80px rgba(0, 0, 0, 0);
+	}
+
+	100% {
+		transform: scale(0.45);
+		box-shadow: 0 0 0 40px rgba(0, 0, 0, 0);
+	}
+}
