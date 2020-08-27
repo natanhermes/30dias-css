@@ -1,0 +1,85 @@
+	body {
+	background-color: black;
+	}
+
+	.center {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		height: 90vh;
+
+	}
+  
+  span {
+	font-size: 80px;
+	color: #fff;
+	text-align: center;
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+	-moz-animation: glow 1s ease-in-out infinite alternate;
+	animation: glow 1s  infinite infinite;
+  }
+
+  @keyframes glow {
+	from {
+	  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #7159c1, 0 0 40px #7159c1, 0 0 50px #7159c1, 0 0 60px #7159c1, 0 0 70px #7159c1;
+	}
+	
+	to {
+	  text-shadow: 0 0 20px #fff, 0 0 30px #7159c1, 0 0 40px #7159c1, 0 0 50px #7159c1, 0 0 60px #7159c1, 0 0 70px #7159c1, 0 0 80px #7159c1;
+	}
+
+	0% {
+		color: #fff;
+	}
+	80% {
+		color: #fff;
+	}
+	100% {
+		color: #7159c1;
+	}
+  }
+
+span:nth-child(1) 
+{
+	animation-delay: 0
+}
+
+span:nth-child(2) 
+{
+	animation-delay: 0.3s
+}
+
+span:nth-child(3) 
+{
+	animation-delay: 0.5s
+}
+
+span:nth-child(4) 
+{
+	animation-delay: 0.7s
+}
+
+span:nth-child(5) 
+{
+	animation-delay: 0.9s
+}
+
+span:nth-child(6) 
+{
+	animation-delay: 1.1s
+}
+
+span:nth-child(7) 
+{
+	animation-delay: 1.3s
+}
+
+span:nth-child(8) 
+{
+	animation-delay: 1.4s
+}
+span:nth-child(8) 
+{
+	animation-delay: 1.6s
+}
