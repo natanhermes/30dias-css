@@ -10,6 +10,7 @@ Minhas implementações:
 - [Dia 03 - Sliding de texto entre divs](#dia-03---sliding-de-texto-entre-divs)
 - [Dia 04 - Botão com animação no hover](#dia-04---botão-animado)
 - [Dia 05 - Efeito pulsar simples](#dia-05---efeito-pulsar)
+- [Dia 06 - Lightning text com sombra](#dia-06---lightning-text-com-sombra)
 
 
 # Dia 01 - Ícones de mídia social em camadas
@@ -39,4 +40,10 @@ Minhas implementações:
 
 ![Alt text](https://github.com/natanhermes/30dias-css/blob/master/Desafios/dia-05/dia-05-gif.gif)
 
- * Efeito pulsar simples
+ * Efeito pulsar simples 
+
+ # Dia 06 - Lightning text com sombra
+
+![Alt text](https://github.com/natanhermes/30dias-css/blob/master/Desafios/dia-06/dia-06-gif.gif)
+
+ * Lightning text com sombra
